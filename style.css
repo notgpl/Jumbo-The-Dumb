@@ -17,7 +17,7 @@ html {
 
 /* Background Image */
 body {
-    background-image: url('C:/Users/GodGpl/OneDrive/Desktop/download.jpg'); /* Replace with the correct path to your background image */
+    background-image: url('download.jpg'); /* Replace with the correct path to your background image */
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
