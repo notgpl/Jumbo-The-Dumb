@@ -14,6 +14,7 @@
 html {
     font-size: 62.5%;
     max-width: 850px;
+    text-align: center;
 }
 
 /* Background Image */
@@ -117,6 +118,7 @@ section.home {
     color: white;
     text-align: center;
     width: 95%;
+    text-align: center;
 }
 
 .home {
@@ -125,6 +127,7 @@ section.home {
     align-items: center;
     gap: 8rem;
     background-color: transparent;
+    text-align: center;
 }
 
 .home .home-content h1 {
