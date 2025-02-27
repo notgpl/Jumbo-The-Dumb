@@ -255,6 +255,7 @@ span {
 
     .home-content h1 {
         font-size: 5rem;
+        max-width: 900px;
     }
 
     .home-img img {
