@@ -37,7 +37,6 @@ header {
     width: 100%;
     padding: 1rem 9%;
     background-color: transparent;
-    filter: drop-shadow(0 0 5px rgba(0, 0, 0, 0.2));
     display: flex;
     justify-content: space-between;
     align-items: center;
