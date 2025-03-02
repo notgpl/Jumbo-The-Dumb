@@ -222,22 +222,22 @@ span {
 .btn1 {
     display: inline-block;
     padding: 1rem 2.8rem;
-    background-color: lime;
+    background-color: green;
     border-radius: 4rem;
     font-size: 1.6rem;
     color: black;
     letter-spacing: 0.3rem;
     font-weight: 600;
-    border: 2px solid lime;
+    border: 2px solid green;
     transition: 0.3s ease-in-out;
     cursor: pointer;
 }
 
 .btn1:hover {
     transform: scale(1.03);
-    background-color: #e64809;
+    background-color: lime;
     color: black;
-    box-shadow: 0 0 25px #e64809;
+    box-shadow: 0 0 25px lime;
 }
 /* Cursor Animation */
 @keyframes cursor {
