@@ -32,7 +32,7 @@ body {
 
 /* Header */
 header {
-    margin-top: 20px;
+    margin-top: 0px;
     position: relative;
     top: 0;
     left: 0;
@@ -82,7 +82,7 @@ nav a.active {
         border-left: 3px solid #e64809;
         border-bottom: 3px solid #e64809;
         border-bottom-left-radius: 2rem;
-        padding: 1rem;
+        padding: 0rem;
         background-color: #161616;
     }
 
@@ -117,7 +117,7 @@ section.home {
     padding: 20px;
     color: white;
     text-align: center;
-    width: 95%;
+    width: 100%;
     text-align: center;
 }
 
@@ -149,6 +149,7 @@ span {
     font-size: 4rem;
     margin-bottom: 1rem;
     font-weight: 700;
+    max-width: 950px;
 }
 
 .home-content p {
